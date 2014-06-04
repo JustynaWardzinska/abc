@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pierwszy post"
-description: ""
+description: "Moje pierwsze próby z Jekyllem"
 category: 
 tags: []
 ---
