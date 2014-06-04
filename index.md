@@ -1,17 +1,18 @@
 ---
 layout: page
-title: Hello World!
+title: Justyna Wardzińska - Blog
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
+Szybki początek: [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
 
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
+Dokumentacja: [Jekyll Bootstrap](http://jekyllbootstrap.com)
 
-## Update Author Attributes
+## Plik konfiguracyjny
 
-In `_config.yml` remember to specify your own data:
+W pliku `_config.yml` zmieniłam przykładowe dane na swoje 
+Poniżej pokazane jest jakie dane były uprzednio
     
     title : My Blog =)
     
@@ -21,7 +22,8 @@ In `_config.yml` remember to specify your own data:
       github : username
       twitter : username
 
-The theme should reference these variables whenever needed.
+
+
     
 ## Sample Posts
 
@@ -39,8 +41,8 @@ Here's a sample "posts list".
 </ul>
 
 ## To-Do
+Spersonalizować bloga.
 
-This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/plusjade/jekyll-bootstrap)!
-We need to clean up the themes, make theme usage guides with theme-specific markup examples.
+Pozbyć się nadwyżkowych linków w zakładce pages i posts
 
 

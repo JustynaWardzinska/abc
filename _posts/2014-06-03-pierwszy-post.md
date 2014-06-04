@@ -2,10 +2,11 @@
 layout: post
 title: "Pierwszy post"
 description: "Moje pierwsze próby z Jekyllem"
-category: 
-tags: []
+category: lessons
+tagline: "Supporting tagline"
+tags: [początki, jekyll]
 ---
 {% include JB/setup %}
 
-Moje próby z Jekyllem... chociaż może to bardziej mr. Hyde? :)
+Moje pierwsze próby z Jekyllem... chociaż może to bardziej mr. Hyde? :)
 To się jeszcze okaże.
